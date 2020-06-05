@@ -35,12 +35,6 @@ def return_string_array(array)
     count += 1
   end
   p new_array
-=======
-  count = 0 
-  while count < array.length do
-    
-  end
->>>>>>> 7777020ebc0bcba771cb716f026c208b2126a131
 end
 
 
